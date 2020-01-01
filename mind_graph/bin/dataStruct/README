@@ -1,0 +1,1 @@
+目前的函数只有retraverse和creat_position没有实现，其他都可以正常使用，接口为table，列出了可以使用的函数，具体实现在table——implemnt中，你要使用的时候生成一个table——implement的对象就可以了。
